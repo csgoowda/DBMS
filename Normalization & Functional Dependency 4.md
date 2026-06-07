@@ -1,4 +1,4 @@
-# Day 7 – Normalization & Functional Dependency (Most Asked DBMS Topic)
+# Normalization & Functional Dependency (Most Asked DBMS Topic)
 
 Today we learn **why normalization is needed**, not just definitions.
 
