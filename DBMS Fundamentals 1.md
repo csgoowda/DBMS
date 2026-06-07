@@ -1,4 +1,4 @@
-# Day 5 – DBMS Fundamentals (Complete Interview Notes)
+# DBMS Fundamentals (Complete Interview Notes)
 
 ## 1. What is Data?
 Alright Chethan, let’s nail this down perfectly in the **DBMS (Database Management System)** context.  
