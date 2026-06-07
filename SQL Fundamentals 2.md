@@ -1,4 +1,4 @@
-# Day 6 – SQL Fundamentals (Most Important for Interviews)
+# SQL Fundamentals (Most Important for Interviews)
 
 Before learning SQL, remember:
 
