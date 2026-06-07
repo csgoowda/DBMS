@@ -1,6 +1,4 @@
-You've already done Day 7 (Normalization). Since you asked for **Day 7** again, I'll continue according to the roadmap:
-
-# Day 8 – ACID Properties, Transactions & Indexing
+ACID Properties, Transactions & Indexing
 
 This is one of the highest-priority DBMS topics for interviews.
 
