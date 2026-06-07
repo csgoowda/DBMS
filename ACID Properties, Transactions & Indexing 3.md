@@ -1,4 +1,4 @@
-ACID Properties, Transactions & Indexing
+# ACID Properties, Transactions & Indexing
 
 This is one of the highest-priority DBMS topics for interviews.
 
