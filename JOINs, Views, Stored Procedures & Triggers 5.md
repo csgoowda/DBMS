@@ -1,4 +1,4 @@
-# Day 9 – JOINs, Views, Stored Procedures & Triggers
+# JOINs, Views, Stored Procedures & Triggers
 
 This is the final and most practical DBMS topic.
 
